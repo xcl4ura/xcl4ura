@@ -10,6 +10,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xcl4ura&bg_color=000000&color=8740ce&line=60007a&point=159d82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xcl4ura&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xcl4ura&theme=gitdimmed&row=1&no-bg=true&column=8&margin-w=19&margin-h=19" />
 </p>
 
