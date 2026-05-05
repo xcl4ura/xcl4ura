@@ -7,6 +7,3 @@
 	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcl4ura&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xcl4ura&bg_color=000000&color=8740ce&line=60007a&point=159d82&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
